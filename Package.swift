@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ISAdMobAdapter",
-            url: "https://github.com/portolans/admob-ironsourceadapter-releases/releases/download/5.19.0/ISAdMobAdapter.xcframework.zip",
-            checksum: "a4d4bdaff8a9f367924093054433e389b580555052c3e9d0531012b4da8b7aff",
+            url: "https://github.com/portolans/admob-ironsourceadapter-releases/releases/download/5.20.0/ISAdMobAdapter.xcframework.zip",
+            checksum: "6d9808787b9fa92a42278277127fecc7c4fe33e4a4a2d34c1f8362d4b8c9aae7",
         ),
     ],
 )
